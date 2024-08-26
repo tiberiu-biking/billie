@@ -88,8 +88,16 @@
         <mxCell id="U37dJyql8euISiIfU0h9-15" value="CANCELLED" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="210" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cfLcv5FyuvygWV6GWhhq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U37dJyql8euISiIfU0h9-16" target="fJSgLH0tlg2fPkt6Yu9f-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfLcv5FyuvygWV6GWhhq-7" value="obligation doesn’t exist&lt;div&gt;ticket is cancelled&lt;/div&gt;&lt;div&gt;=&amp;gt; nothing to link&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cfLcv5FyuvygWV6GWhhq-6">
+          <mxGeometry x="-0.3118" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U37dJyql8euISiIfU0h9-16" value="SettleInvoiceRefund" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;labelBackgroundColor=none;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="330" y="500" width="140" height="36" as="geometry" />
+          <mxGeometry x="320" y="524" width="140" height="36" as="geometry" />
         </mxCell>
         <mxCell id="U37dJyql8euISiIfU0h9-17" value="payback&amp;nbsp;invoice_cancellation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="630" width="200" height="30" as="geometry" />
@@ -118,8 +126,26 @@
         <mxCell id="U37dJyql8euISiIfU0h9-23" value="100 EUR" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="740" y="70" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cfLcv5FyuvygWV6GWhhq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U37dJyql8euISiIfU0h9-24" target="fJSgLH0tlg2fPkt6Yu9f-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cfLcv5FyuvygWV6GWhhq-3" value="link obligation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cfLcv5FyuvygWV6GWhhq-2">
+          <mxGeometry x="0.1222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U37dJyql8euISiIfU0h9-24" value="SettleInvoice" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;labelBackgroundColor=none;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cfLcv5FyuvygWV6GWhhq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U37dJyql8euISiIfU0h9-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cfLcv5FyuvygWV6GWhhq-5" value="link obligation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cfLcv5FyuvygWV6GWhhq-4">
+          <mxGeometry x="-0.2937" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U37dJyql8euISiIfU0h9-25" value="SettleInvoiceFee" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;labelBackgroundColor=none;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="140" height="40" as="geometry" />
@@ -128,10 +154,10 @@
           <mxGeometry x="430" y="420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U37dJyql8euISiIfU0h9-27" value="100 EUR" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="460" width="70" height="30" as="geometry" />
+          <mxGeometry x="420" y="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U37dJyql8euISiIfU0h9-28" value="100 EUR" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="340" width="70" height="30" as="geometry" />
+          <mxGeometry x="430" y="340" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fJSgLH0tlg2fPkt6Yu9f-4" value="Money Movement 30" style="rounded=1;html=1;fontFamily=Source Code Pro;fontSource=https://fonts.googleapis.com/css?family=Source+Code+Pro;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="330" width="120" height="30" as="geometry" />
