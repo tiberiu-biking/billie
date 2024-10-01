@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="3">
   <diagram name="new buyer" id="nNX4QEM3W7Xng_duF3v0">
     <mxGraphModel dx="1325" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,6 +81,35 @@
             <mxPoint x="210" y="160" as="sourcePoint" />
             <mxPoint x="290" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6t7sGmu9FomLmrirk2pb" name="model">
+    <mxGraphModel dx="2074" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uUOorOfK8Ti8d8grX5sK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uUOorOfK8Ti8d8grX5sK-4" target="uUOorOfK8Ti8d8grX5sK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOorOfK8Ti8d8grX5sK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="uUOorOfK8Ti8d8grX5sK-4" target="uUOorOfK8Ti8d8grX5sK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOorOfK8Ti8d8grX5sK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="uUOorOfK8Ti8d8grX5sK-4" target="uUOorOfK8Ti8d8grX5sK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOorOfK8Ti8d8grX5sK-4" value="Billie Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOorOfK8Ti8d8grX5sK-5" value="Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOorOfK8Ti8d8grX5sK-6" value="Country" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uUOorOfK8Ti8d8grX5sK-7" value="Organisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
