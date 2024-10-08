@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="4">
   <diagram name="new buyer" id="nNX4QEM3W7Xng_duF3v0">
     <mxGraphModel dx="1325" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,6 +110,41 @@
         </mxCell>
         <mxCell id="uUOorOfK8Ti8d8grX5sK-7" value="Organisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q__WzzDHoBCSrEiU9H66" name="Payments">
+    <mxGraphModel dx="1682" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-17" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;" edge="1" parent="1" source="XxSAT8HPvQVqdS6A2LVU-2" target="XxSAT8HPvQVqdS6A2LVU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-18" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;" edge="1" parent="1" source="XxSAT8HPvQVqdS6A2LVU-2" target="XxSAT8HPvQVqdS6A2LVU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-2" value="Factoring Case" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-5" value="Buyer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-13" style="edgeStyle=entityRelationEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;curved=0;" edge="1" parent="1" source="XxSAT8HPvQVqdS6A2LVU-10" target="XxSAT8HPvQVqdS6A2LVU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-15" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;" edge="1" parent="1" source="XxSAT8HPvQVqdS6A2LVU-10" target="XxSAT8HPvQVqdS6A2LVU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-10" value="Merchant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-11" value="Settlement&lt;div&gt;Partner&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxSAT8HPvQVqdS6A2LVU-12" value="&lt;div&gt;Contractual&lt;/div&gt;&lt;div&gt;Partner&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
