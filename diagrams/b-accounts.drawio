@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="5">
   <diagram name="new buyer" id="nNX4QEM3W7Xng_duF3v0">
     <mxGraphModel dx="1325" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="epW_yfUo5QnRYYtbMuxn" name="dmrz">
-    <mxGraphModel dx="755" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,51 +356,67 @@
         <mxCell id="dmEHjrqeDT7K3K-2Kguq-8" value="DE, EUR" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="402" y="1041" width="81" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-16" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;" edge="1" parent="1" source="xxqVYW0c5x7S4YbpkPsh-1" target="xxqVYW0c5x7S4YbpkPsh-14">
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-16" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" source="xxqVYW0c5x7S4YbpkPsh-1" target="xxqVYW0c5x7S4YbpkPsh-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-1" value="Merchant&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-1" value="Merchant&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
           <mxGeometry x="1573" y="658.75" width="149" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-7" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxqVYW0c5x7S4YbpkPsh-1" target="xxqVYW0c5x7S4YbpkPsh-5">
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-7" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" source="xxqVYW0c5x7S4YbpkPsh-1" target="xxqVYW0c5x7S4YbpkPsh-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1507" y="661" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-8" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;" edge="1" parent="1" source="xxqVYW0c5x7S4YbpkPsh-3" target="xxqVYW0c5x7S4YbpkPsh-1">
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-8" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" source="xxqVYW0c5x7S4YbpkPsh-3" target="xxqVYW0c5x7S4YbpkPsh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-9" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;" edge="1" parent="1" source="xxqVYW0c5x7S4YbpkPsh-1" target="xxqVYW0c5x7S4YbpkPsh-6">
+        <mxCell id="95T7uJHOWwxoWNsNMo1q-1" value="create" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=13;" vertex="1" connectable="0" parent="xxqVYW0c5x7S4YbpkPsh-8">
+          <mxGeometry x="-0.2507" y="-5" relative="1" as="geometry">
+            <mxPoint x="2" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-9" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" source="xxqVYW0c5x7S4YbpkPsh-1" target="xxqVYW0c5x7S4YbpkPsh-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1846" y="841" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-3" value="Partner&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1299.1481481481478" y="658.7500000000002" width="160" height="80" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-3" value="Partner&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1289.9981481481477" y="660.5000000000002" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-5" value="Payments&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1849" y="567" width="149" height="85.5" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-5" value="Payments&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1856" y="564" width="149" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-6" value="Buyers&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1853" y="740.5" width="149" height="85.5" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-6" value="Buyers&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1856" y="676" width="149" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-10" value="DMRZ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1355" y="679" width="96" height="41" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-10" value="DMRZ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1345.85" y="680.75" width="96" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-11" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-11" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
           <mxGeometry x="1641" y="710.75" width="75" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-12" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1914" y="617" width="75" height="28" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-12" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1921" y="614" width="75" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-13" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1919" y="790" width="75" height="28" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-13" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1922" y="725.5" width="75" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-14" value="Buyers&lt;div&gt;Domain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1856" y="859" width="149" height="85.5" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-14" value="&lt;div&gt;Risk&lt;/div&gt;&lt;div&gt;Domain&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1856" y="788" width="149" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="xxqVYW0c5x7S4YbpkPsh-15" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="1923" y="908" width="75" height="28" as="geometry" />
+        <mxCell id="xxqVYW0c5x7S4YbpkPsh-15" value="merchant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#99CCFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
+          <mxGeometry x="1923" y="837" width="75" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="95T7uJHOWwxoWNsNMo1q-4" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Source Code Pro;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=block;endFill=0;endSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" edge="1" parent="1" target="xxqVYW0c5x7S4YbpkPsh-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="701" as="sourcePoint" />
+            <mxPoint x="1583" y="712" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95T7uJHOWwxoWNsNMo1q-5" value="&lt;div&gt;POST&lt;/div&gt;&lt;div&gt;/partners/merchants&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontSize=13;" vertex="1" connectable="0" parent="95T7uJHOWwxoWNsNMo1q-4">
+          <mxGeometry x="-0.2507" y="-5" relative="1" as="geometry">
+            <mxPoint x="16" y="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
